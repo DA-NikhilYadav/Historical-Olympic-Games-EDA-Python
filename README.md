@@ -1,4 +1,4 @@
-                                              # Project: Olympics Data Analysis and Visualization
+# Project: Olympics Data Analysis and Visualization
 
 ## Introduction:
 The Olympics, the pinnacle of sporting excellence, brings together athletes from around the world to compete on a global stage. In this project, we delve into the rich history of the Olympics through data analysis and visualization. By leveraging Python libraries such as Pandas, Matplotlib, NumPy, and Seaborn, we uncover insights into athlete demographics, medal distributions, trends over time, sentiment analysis, and more. Through this project, we aim to provide a comprehensive understanding of the Olympics landscape and its evolution over the years.
